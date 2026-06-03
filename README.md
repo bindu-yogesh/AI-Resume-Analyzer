@@ -1,2 +1,16 @@
-# AI-Resume-Analyzer
-AI-powered Resume Analyzer with ATS scoring, skill detection, and resume improvement suggestions.
+
+# AI Resume Analyzer Pro
+
+Features:
+- ATS Score Calculation
+- Skill Detection
+- Missing Skills Analysis
+- Resume Suggestions
+- Flask Backend
+- Modern UI
+
+Run:
+
+pip install flask
+
+python app.py
